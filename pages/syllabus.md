@@ -330,3 +330,6 @@ Avoid generic reflection ("I learned a lot"). Be specific about methodological i
 
 **Final: Experimental Documentary/Podcast + Methods Reflection (25%):** 10-15 minute creative piece + 4-5 page reflection essay.
 
+## Credits
+
+Thanks to Shaka McGlotten for syllabus suggestions.
