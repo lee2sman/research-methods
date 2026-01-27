@@ -1,0 +1,278 @@
+/* Research Methods in Media, Arts and Society */
+
+:root {
+  --bg-main: #0a0e27;
+  --bg-secondary: #1a1f3a;
+  --accent-primary: #00ff9f;
+  --accent-secondary: #ff006e;
+  --accent-tertiary: #8338ec;
+  --text-main: #e0e7ff;
+  --text-muted: #94a3b8;
+  --border-color: #2d3454;
+  --glow: rgba(0, 255, 159, 0.3);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg-main);
+  color: var(--text-main);
+  line-height: 1.7;
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 900;
+  background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary), var(--accent-tertiary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.03em;
+  animation: glow-pulse 3s ease-in-out infinite;
+}
+
+@keyframes glow-pulse {
+  0%, 100% { filter: drop-shadow(0 0 20px var(--glow)); }
+  50% { filter: drop-shadow(0 0 30px var(--glow)); }
+}
+
+h2 {
+  font-size: 2rem;
+  color: var(--accent-primary);
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid var(--border-color);
+  position: relative;
+}
+
+h2::before {
+  content: '//';
+  color: var(--accent-secondary);
+  margin-right: 0.5rem;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: var(--accent-secondary);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3::before {
+  content: '>';
+  color: var(--accent-tertiary);
+  margin-right: 0.5rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+  color: var(--accent-tertiary);
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+p {
+  margin-bottom: 1.2rem;
+  color: var(--text-main);
+}
+
+a {
+  color: var(--accent-primary);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+a:hover {
+  border-bottom-color: var(--accent-primary);
+  text-shadow: 0 0 10px var(--glow);
+}
+
+nav > ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav > ul li {
+  float: left;
+}
+
+ul, ol {
+  margin-left: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.75rem;
+  color: var(--text-main);
+  padding-left: 0.5rem;
+}
+
+li::marker {
+  color: var(--accent-secondary);
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent-primary), transparent);
+  margin: 3rem 0;
+  opacity: 0.5;
+}
+
+strong, b {
+  color: var(--accent-primary);
+  font-weight: 700;
+}
+
+em, i {
+  color: var(--accent-secondary);
+  font-style: italic;
+}
+
+code {
+  background: var(--bg-secondary);
+  color: var(--accent-primary);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-size: 0.9em;
+  border: 1px solid var(--border-color);
+}
+
+pre {
+  background: var(--bg-secondary);
+  padding: 1.5rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid var(--accent-primary);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+blockquote {
+  border-left: 4px solid var(--accent-secondary);
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+  color: var(--text-muted);
+  background: var(--bg-secondary);
+  padding: 1.5rem;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Special styling for week sections */
+h2[id*="week"] {
+  background: var(--bg-secondary);
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 2px solid var(--border-color);
+  border-left: 6px solid var(--accent-primary);
+  margin-top: 4rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+h2[id*="week"]:hover {
+  border-left-color: var(--accent-secondary);
+  transform: translateX(5px);
+}
+
+/* Prompt sections */
+h4:contains("Prompt") {
+  background: linear-gradient(90deg, var(--accent-tertiary), transparent);
+  padding: 0.75rem 1rem;
+  border-radius: 4px;
+  border-left: 4px solid var(--accent-tertiary);
+}
+
+/* Assignment summary styling */
+h2:contains("Assignment") {
+  background: linear-gradient(135deg, var(--accent-secondary), var(--accent-tertiary));
+  color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: none;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent-primary);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-secondary);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  body {
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+  }
+}
+
+/* Add a subtle grid background */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    linear-gradient(rgba(0, 255, 159, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 255, 159, 0.03) 1px, transparent 1px);
+  background-size: 50px 50px;
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Glitch effect on hover for main title */
+h1:hover {
+  animation: glitch 0.3s ease-in-out;
+}
+
+@keyframes glitch {
+  0% { transform: translate(0); }
+  20% { transform: translate(-2px, 2px); }
+  40% { transform: translate(-2px, -2px); }
+  60% { transform: translate(2px, 2px); }
+  80% { transform: translate(2px, -2px); }
+  100% { transform: translate(0); }
+}
