@@ -39,7 +39,7 @@ Write about an online space, game, community, or digital artifact from your own 
 Practice close reading with media texts—film scenes, advertisements, social media posts, or artworks. Pay attention to details you'd normally overlook. Try different analytical frameworks (semiotics, narrative analysis, visual rhetoric) and see which reveals something interesting about your chosen text.
 
 ### Readings
-- Janet Murray, selections from *Hamlet on the Holodeck* (1997) - narrative in digital environments
+- Janet Murray, selections from *Hamlet on the Holodeck* (1997) - narrative in digital environments. (Read [online](https://brewing.permacomputing.net/) via Purchase College Library)
 - Ian Bogost, "The Rhetoric of Video Games" - procedural rhetoric
 - Lev Manovich, selections from *The Language of New Media* (2001)
 - Practice readings: Choose a digital artifact (a game, virtual world screenshots, social media thread) for close analysis
