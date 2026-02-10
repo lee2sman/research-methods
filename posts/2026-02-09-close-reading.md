@@ -33,8 +33,8 @@ Practice close reading with media texts—film scenes, advertisements, social me
 
 ### Readings
 
-- Janet Murray, selections from *Hamlet on the Holodeck* (1997) - narrative in digital environments. (Read [online](https://brewing.permacomputing.net/) via Purchase College Library)
-- Ian Bogost, "The Rhetoric of Video Games" - procedural rhetoric
+- Janet Murray, selections from *Hamlet on the Holodeck* (1997) - narrative in digital environments. (Read [online](https://suny-pur.primo.exlibrisgroup.com/permalink/01SUNY_PUR/1npol0k/cdi_proquest_miscellaneous_38775074) via Purchase College Library)
+- Ian Bogost, [The Rhetoric of Video Games](https://suny-pur.primo.exlibrisgroup.com/permalink/01SUNY_PUR/1cta3cr/alma990003241110204853) - procedural rhetoric CC BY-NC-ND (a physical book is available in the stacks in the Purchase College Library)
 - Lev Manovich, selections from *The Language of New Media* (2001)
 - Practice readings: Choose a digital artifact (a game, virtual world screenshots, social media thread) for close analysis
 
@@ -51,5 +51,4 @@ Choose a specific digital artifact to analyze closely. This could be:
 Describe it in extreme detail first—interface elements, visual design, interactive possibilities, temporal structures. Then analyze: What assumptions about users/players are built into the design? What behaviors does it encourage or discourage? What narratives or ideologies are embedded in its formal structures? What would someone from 1995 or 2045 make of this?
 
 Don't aim for a thesis-driven argument. Instead, use close reading as a method of discovery—what becomes visible when you slow down and pay attention?
-
 
