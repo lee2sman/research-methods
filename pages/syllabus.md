@@ -5,6 +5,24 @@ Spring 2026
 Instructor: Lee Tusman  
 Office Hours: By appointment - Mondays and Wednesdays
 
+## Meeting Dates
+
+We meet on alternate mondays 3pm - 4:30pm on the following dates. **At the February 9th meeting we decided that most meetings will take place in person.** When meeting in person, we meet in the library DMZ area in the back right classroom.
+
+February 9
+
+February 23
+
+March 9
+
+March 30
+
+April 13
+
+April 27
+
+May 11 (final)
+
 ## Course Description
 
 This independent study introduces research methods used in media studies, cultural studies, and the arts. Rather than learning methods in the abstract, we'll learn by doing—trying different approaches to see what fits your thinking. You'll explore methods like ethnography, close reading, critical fabulation, autoethnography, and digital analysis through hands-on exercises and collaborative work.
