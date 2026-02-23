@@ -1,3 +1,6 @@
+[Ethnography and Observation](ethnography-observation/)  
+2026-02-22  
+
 [close reading](close-reading/)  
 2026-02-09  
 
