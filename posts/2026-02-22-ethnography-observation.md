@@ -28,6 +28,8 @@ Gabriella Coleman's research on the hacker community
 
 ## Screening
 
+[Security By Spectacle](https://www.youtube.com/watch?v=o190r3SLT20) 
+
 Your Place or Minecraft
 
 > The 'mLab server' is one of the most modded Minecraft servers in the world. But what makes it really special is that it is owned by academic game research centres of Concordia University where the players—students and professors—all work together in real life. Their real life friendships, objectives and conflicts result in fascinating, self-reflexive and sometimes explosive gameplay.
