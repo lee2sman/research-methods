@@ -1,3 +1,6 @@
+[Autoethnography & Critical Fabulation](autoethnography/)  
+2026-03-09  
+
 [Ethnography and Observation](ethnography-observation/)  
 2026-02-22  
 
