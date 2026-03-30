@@ -53,17 +53,19 @@ Bridge to semester project: The process you just did—observe closely, ask ques
 
 ## Homework - Writing Prompt: Research Proposal (3-4 pages)
 
-Here's what we're working toward:
+Here's what we're working toward for our class final project:
 
 > An experimental documentary, podcast, audio essay, video essay, or similar multimedia piece that uses one or more research methods explored in the course (7 - 15 minutes). This should demonstrate your methodology in practice—whether that’s ethnographic observation, critical fabulation, archival investigation, or hybrid approaches.
 
-Write a proposal for your final documentary/podcast project. Include:
+Leading up to that, please write a proposal for your final project. Include:
+
+Pick an emergent online subculture or community you've identified to research. 
 
 **1. Research Question/Curiosity:** What are you investigating? Frame this as genuine curiosity, not a predetermined argument. What do you want to understand better?
 
-**2. Methodology:** Which research method(s) will you use? Why are these appropriate for your question? Will you do interviews (ethnography)? Analyze texts or platforms (close reading)? Work with archives or memory? Use your own experience (autoethnography)? Combine approaches?
+**2. Methodology:** Which research method(s) will you use? Why are these appropriate for your question? Ethnography? Analyze texts or platforms (close reading)? Work with archives or memory? Use your own experience (autoethnography)? Fabulation? Combine approaches?
 
-**3. Media Form:** Why documentary, podcast, video essay, zine, or audio piece (etc)? What can this form do that a written essay can't? What aesthetic or structural choices will you make?
+**3. Media Form:** Why documentary, podcast, video essay, or audio piece (etc)? What can this form do that a written essay can't? What aesthetic or structural choices will you make?
 
 **4. Failed Experiments:** What have you tried that didn't work? What dead ends taught you something? This is crucial—research is messy.
 
