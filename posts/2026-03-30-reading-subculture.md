@@ -23,35 +23,38 @@ Your task: Pick 1-2 zines, spend time with them, take notes, then share your fin
 Browse the zine collection and choose 1-2 that interest you. Spend time reading, observing, and taking notes however feels natural to you.
 
 Prompts to consider:
-- What do you notice about materials, layout, aesthetic, content?
-- Who made this? For whom? What community does this represent?
-- What values, concerns, or identities show up?
-- What's puzzling or unclear to you?
-- What would you want to research further about this?
-- If you were going to study this subculture/moment, what method would you use? Close reading? Interviews? Archives? Your own experience?
-- What can you know from the object alone? What would require other approaches?
+
+* What do you notice about materials, layout, aesthetic, content?
+* Who made this? For whom? What community does this represent?
+* What values, concerns, or identities show up?
+* What's puzzling or unclear to you?
+* What would you want to research further about this?
+* If you were going to study this subculture/moment, what method would you use? Close reading? Interviews? Archives? Your own experience?
+* What can you know from the object alone? What would require other approaches?
 
 Work at your own pace. You might dive deep into one zine, or compare several. 
 
 ### Sharing & Discussion (30 minutes)
 
 Each person has 3-5 minutes to:
-- Show their zine(s) to the class
-- Share what they noticed and what stuck with them
-- Talk about what questions it raised
-- Mention what research approach might help answer those questions
+
+* Show their zine(s) to the class
+* Share what they noticed and what stuck with them
+* Talk about what questions it raised
+* Mention what research approach might help answer those questions
 
 ### Closing (5 minutes)
 
 Quick debrief:
-- What did working with physical artifacts feel like compared to digital artifacts we've analyzed?
-- What methods did you find yourself using naturally?
-- How does this connect to developing your own projects?
+
+* What did working with physical artifacts feel like compared to digital artifacts we've analyzed?
+* What methods did you find yourself using naturally?
+* How does this connect to developing your own projects?
 
 Bridge to semester project: The process you just did—observe closely, ask questions, figure out what method fits—is what your class project proposal should demonstrate. Your prototype is like showing the zine to the class: here's what I'm looking at, here's what I'm noticing, here's where I'm going.
 
 
-## Homework - Writing Prompt: Research Proposal (3-4 pages)
+## Homework - Writing Prompt: Research Proposal (2-4 pages)
 
 Here's what we're working toward for our class final project:
 
