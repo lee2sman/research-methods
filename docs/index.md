@@ -1,3 +1,6 @@
+[Reading Subculture Through Zines](reading-subculture/)  
+2026-03-30  
+
 [Autoethnography & Critical Fabulation](autoethnography/)  
 2026-03-09  
 
