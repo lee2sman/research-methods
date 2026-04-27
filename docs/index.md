@@ -1,3 +1,6 @@
+[Research Project Execution & Analysis](project-work/)  
+2026-04-27  
+
 [Reading Subculture Through Zines](reading-subculture/)  
 2026-03-30  
 
